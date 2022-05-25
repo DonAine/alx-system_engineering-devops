@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -afn ./ ../ /boot 
+ls -aln ./ ../ /boot 
